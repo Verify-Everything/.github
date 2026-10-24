@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <title>verified-libs social preview</title>
+  <rect width="1280" height="640" fill="#0E1726"/>
+  <!-- verified-libs mark (same geometry as verified-libs-mark.svg) -->
+  <g transform="translate(113 64) translate(-13 -1)">
+    <g fill="none" stroke="#C9D4E3" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M205 75 L318 140 L318 270 L205 335 L92 270 L92 140 Z"/>
+      <path d="M92 140 L205 205 L318 140 M205 205 L205 335"/>
+    </g>
+    <circle cx="360" cy="352" r="100" fill="#0E1726"/>
+    <circle cx="360" cy="352" r="86" fill="#5EEAA8"/>
+    <g transform="translate(360 354) scale(0.39) translate(-256 -250)" fill="none" stroke="#0E1726" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M134 190 L232 396 L378 104" stroke-width="50"/>
+      <path d="M168 268 L300 268" stroke-width="34" stroke-linecap="butt"/>
+    </g>
+  </g>
+  <g font-family="'Segoe UI Variable Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="643" y="300" font-size="88" font-weight="600" fill="#E8EEF6" letter-spacing="-1">verified-libs</text>
+    <text x="647" y="362" font-size="34" font-weight="600" fill="#5EEAA8">Verify-Everything</text>
+    <text x="647" y="430" font-size="26" fill="#8E9DB3">Successfully verified libraries, each with</text>
+    <text x="647" y="466" font-size="26" fill="#8E9DB3">its verification and pipeline.</text>
+  </g>
+</svg>

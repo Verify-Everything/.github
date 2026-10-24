@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Verify Everything</title>
+  <rect width="512" height="512" fill="#0E1726"/>
+  <!-- The universal quantifier (for all) drawn as a checkmark: verify everything. -->
+  <g fill="none" stroke="#5EEAA8" stroke-linecap="round" stroke-linejoin="round" transform="translate(-6 0)">
+    <path d="M140 190 L238 396 L384 104" stroke-width="46"/>
+    <path d="M174 268 L306 268" stroke-width="32" stroke-linecap="butt"/>
+  </g>
+</svg>
